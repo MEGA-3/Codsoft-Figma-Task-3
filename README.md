@@ -1,5 +1,7 @@
 # Codsoft Task 3
 
+Task 3 : Restaurant Menu Design
+
 I have designed a Restaurant Menu using Figma. I have used Android large frame to design this project. The first page contains a vibrant and catching user welcome page followed by the restaurant menu. The restaurant menu page contains the dishes and their price. 
 
 I have shared the project link here : 
